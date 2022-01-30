@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pitr31
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing
 - 🌱 I’m currently learning c++, lua
 - 💞️ I’m looking to collaborate on ur mom
 - 📫 How to reach me discord pitr311.Lua#2137
