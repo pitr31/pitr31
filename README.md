@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pitr31
+- 👋 Hi, I’m pitr311
 - 👀 I’m interested in develop
 - 🌱 I’m currently learning c++, lua
 - 💞️ I’m looking to collaborate on ur mom
