@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pitr311
 - 👀 I’m interested in develop
-- 🌱 I’m currently learning c++, lua
+- 🌱 I’m currently learning c++, lua and HTML
 - 💞️ I’m looking to collaborate on ur mom
 - 📫 Discord: pitr311.Lua#2137
 
